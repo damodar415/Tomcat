@@ -1,1 +1,1 @@
-target/
+C:\Maven_project01\02-Maven-Webapp\02-Maven-WebApp\target
