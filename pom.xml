@@ -4,7 +4,7 @@
   <groupId>in.Ashokit</groupId>
   <artifactId>02-Maven-WebApp</artifactId>
   <packaging>war</packaging>
-  <version>25.0-SNAPSHOT</version>
+  <version>28.0-SNAPSHOT</version>
   <name>02-Maven-WebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
